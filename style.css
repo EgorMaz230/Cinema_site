@@ -1,0 +1,77 @@
+body {
+    background-image:url(https://kartinkin.net/uploads/posts/2022-02/1645077982_1-kartinkin-net-p-kino-kartinki-1.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+* {
+    box-sizing: border-box;
+}
+.container {
+    border: 2px black;
+    display: flex;
+    flex-wrap: wrap;
+    backdrop-filter: blur(10px);
+}
+.card-body {
+    background-color: rgb(168, 161, 161);
+    text-align: center;
+}
+.card-text {
+    text-align: center;
+}
+.card-title {
+    text-align: center;
+}
+.modal-title {
+    text-align: center;
+}
+.card {
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.navbar {
+  background-color: rgb(231, 48, 48);
+  height: 75px;
+}
+.modal-body {
+    background-color: rgb(102, 99, 99);
+    height: 515px;
+    color: aqua;
+    font-size: xx-large;
+    width: 500px;
+    background-image: url(img/303-3030770_stadium-football-wallpaper-4k.jpg);
+}
+.button-modal {
+    margin-bottom: 50px;
+    margin-left: 550px;
+}.nav-photo {
+    border-radius: 360px;
+    height: 55px;
+    width: 52px;
+}
+.accordion-flush {
+    color: red;
+    margin-bottom: 50px;
+}
+.accordion {
+    color: rgb(255, 0, 0);
+}
+.offcanvas-body {
+       background-image: url(https://st3.depositphotos.com/1064045/16453/i/600/depositphotos_164536384-stock-photo-unusual-cinema-concept-3d-illustration.jpg);
+}
+.text-canvas {
+    color: white;
+}
+.btn-primary {
+   margin: 50px;
+    padding: 50px;
+}
+.img-acardion {
+    padding: 25px;
+}
+.accordion-body {
+    
+    color: red;
+}
